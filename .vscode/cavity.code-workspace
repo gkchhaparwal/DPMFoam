@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../cavity"
+		},
+		{
+			"path": "../../pitzDaily"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"MyDPMFoam.C": "cpp"
+		}
+	}
+}

@@ -1,3 +1,5 @@
 MyDPMFoam.C
 
 EXE = $(FOAM_USER_APPBIN)/MyDPMFoam
+
+#LIB = $(FOAM_USER_LIBBIN)/MyDPMFoam
